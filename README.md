@@ -60,10 +60,9 @@ The dataset contains anonymized customer records, including:
 ---
 
 ##  Author
-**Karan Negi**  
-B.Tech Mechanical Engineering | IIT Dhanbad  
-📬 [LinkedIn]([https://linkedin.com/in/karan-negi](https://www.linkedin.com/in/karan-negi-744b54251/)) 
-
+**Aditya Kumar Paswan**  
+B.Tech Mining Engineering | IIT Dhanbad  
+**LinkedIn:** [linkedin.com/in/adityakrpaswan](https://www.linkedin.com/in/adityakrpaswan/)
 ---
 
 ### If you found this project insightful, consider giving it a star!
